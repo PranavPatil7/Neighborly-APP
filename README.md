@@ -1,7 +1,5 @@
 # Neighborly App with Azure Functions
-<i>Cloud Developer using Microsoft Azure Nanodegree Program</i>
 
-Impossible odds make satisfying achievements. 🤯
 
 I would like to present my final project for the Azure Microservices section. 
 
@@ -40,16 +38,3 @@ This project has the following parts:
 
 [![Watch the demo video](/images/EventGridHubAzureFunctionsDemoTitle.jpg)](https://www.youtube.com/watch?v=lbUYQxOyZmQ "Video Demo - Event Grid Hub and Azure Function Project Demo")
 
-## Udacity 
-
-I passed and my project met all specifications that are documented in files and screen captures [here](https://github.com/kathleenwest/azure-microservices-functions-kubernetes-demo-project/tree/main/demo). Also reference the demo videos above for a walk through of how my project was setup in Azure and see this link for how my project [met specifications](images/meetsspecifications.jpg).
-
-![I passed](images/pass.jpg)
-
-[Udacity Project Step-By-Step Instructions](DeployingtheNeighborlyAppwithAzureFunctions.md)
-
-[Starter Code Repository](https://github.com/udacity/nd081-c2-Building-and-deploying-cloud-native-applications-from-scratch-project-starter)
-
-## Grading Rubric
-
-![Grading Rubric](images/rubric.jpg)
